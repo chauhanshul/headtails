@@ -1,0 +1,27 @@
+body{
+  background-color: #070A52;
+}
+h1{
+  color: #FFD93D;
+  text-align: center;
+  font-size: 4rem;
+  padding-top: 5%;
+}
+.img-container{
+  text-align: center;
+  padding: 7% 0;
+}
+.toss-button{
+  padding: 1% 2%;
+  font-size: 2rem;
+  color: #fff;
+  font-weight: bold;
+  margin-left: 45%;
+}
+.toss-button:hover{
+  color: #2D2727;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
